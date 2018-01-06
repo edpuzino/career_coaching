@@ -1,2 +1,4 @@
-# career_coaching
-Assignments to guide you through your career transition into tech
+# Career Coaching at Code Fellows
+
+> Assignments to guide you through your career transition into tech
+

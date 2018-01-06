@@ -1,3 +1,3 @@
-# Prepare Your Resume
+# Targeted Job Search
 
 *Details coming soon!*

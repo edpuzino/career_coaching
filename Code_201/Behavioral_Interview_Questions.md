@@ -1,0 +1,3 @@
+# Behavioral Interview Questions
+
+Read a list of [top interview behavioral questions](https://theinterviewguys.com/top-10-job-interview-questions/) asked in an interview and learn how to answer them in the [S.T.A.R method](https://careerservices.wayne.edu/behavioralinterviewinfo.pdf) which is the style potential employers prefer and expect. Write a rough draft answering 2 behavioral questions from the list and have two accountability partners review your S.T.A.R. format answers. After you make your edits from the feedback submit your answers.

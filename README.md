@@ -13,31 +13,24 @@ You are expected to complete these assignments weekly. Each assignment is graded
 
 Career Coaching covers these 7 interrelated areas of your professional growth:
 
-### Professional etiquette
+1. Professional etiquette:
+    - Expected attitudes and behaviors in a professional setting
 
-Expected attitudes and behaviors in a professional setting
+1. Professional pitch:
+    - Knowing how to talk about yourself to those in the industry to maximize opportunities
 
-### Professional pitch
+1. Creating a network:
+    - 85% of jobs are filled from employers personal networks
 
-Knowing how to talk about yourself to those in the industry to maximize opportunities
+1. Job search readiness:
+    - Understanding the process by which jobs are attained, in the tech industry
 
-### Creating a network
+1. Targeted job search:
+    - Executing your plan and focusing your energy on attaining the best position for you
 
-85% of jobs are filled from employers personal networks
+1. Professional materials:
+    - Polished resume and a thoughtful online presence will unlock the best opportunities
 
-### Job search readiness
-
-Understanding the process by which jobs are attained, in the tech industry
-
-### Targeted job search
-
-Executing your plan and focusing your energy on attaining the best position for you
-
-### Professional materials
-
-Polished resume and a thoughtful online presence will unlock the best opportunities
-
-### Behavioral interview questions
-
-Summarizing your previous experience to show your preparedness for your next job
+1. Behavioral interview questions:
+    - Summarizing your previous experience to show your preparedness for your next job
 

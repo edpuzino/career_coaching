@@ -15,7 +15,7 @@ Follow these steps on how to create, refine, and upload your resume:
     1. Enter brandyrhodes@codefellows.com, give edit permissions and click done
     1. Click share button again and go to the advance settings at the bottom
     1. Change Brandy's permission to "can edit" to "is owner"
-        - Note: Only these templates are accepted by Code Fellows when sharing you resume with our partner companies. 
+        - Note: Only these templates are accepted by Code Fellows when sharing your resume with our partner companies. 
 
 
 [1]: https://drive.google.com/drive/folders/1f2dnx38bZdBwgzynjc374T_EKgQkYPCO

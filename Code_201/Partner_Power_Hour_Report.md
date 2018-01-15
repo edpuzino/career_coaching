@@ -1,14 +1,14 @@
 # Weekly Partner Power Hour Report
 
-At the end of the week, Code Fellows often hosts a lunchtime (12:15-1:00pm) presentation by our industry partners. These presentations are intended to give you an opportunity to hear some direct industry perspectives on a wide variety of topics and also meet individuals from the industry.
+Code Fellows hosts regular presentations by our industry partners. These presentations are intended to give students an opportunity to hear some direct industry perspectives on a wide variety of topics, and also meet individuals from the industry.
 
 ## Instructions
 
-- Please get your lunch, and be seated promptly
-- Don't be afraid of the front row
-- Be respectful: keep your eyes off of phones & laptops during the talk
-- Move quietly around campus when someone is speaking
-- After the session, figure out how to connect with presenter(s) on LinkedIn, and take the opportunity to learn more about their company
+- Please be seated by the starting time of the presentation.
+- Don't be afraid of the front row!
+- Be respectful: keep your eyes off of phones & laptops during the talk.
+- Move quietly around campus when someone is speaking.
+- After the session, figure out how to connect with presenter(s) on LinkedIn, and take the opportunity to learn more about their company.
 
 ## Please answer the following questions in the Canvas assignment text field.
 

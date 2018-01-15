@@ -1,10 +1,10 @@
 # Weekly Partner Power Hour Report
 
-Each Friday at lunchtime (12:15-1:00pm) Code Fellows hosts a presentation by our industry partners. These presentations are intended to give you an opportunity to hear some direct industry perspectives on a wide variety of topics and also meet individuals from the industry.
+At the end of the week, Code Fellows often hosts a lunchtime (12:15-1:00pm) presentation by our industry partners. These presentations are intended to give you an opportunity to hear some direct industry perspectives on a wide variety of topics and also meet individuals from the industry.
 
 ## Instructions
 
-- Please get your lunch, and be seated by 12:15
+- Please get your lunch, and be seated promptly
 - Don't be afraid of the front row
 - Be respectful: keep your eyes off of phones & laptops during the talk
 - Move quietly around campus when someone is speaking

@@ -1,4 +1,4 @@
-# Grow Your Network
+# Talk to Your Network
 
 Read an article on [“How many jobs are found through networking, really?”][1].
 

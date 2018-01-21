@@ -1,6 +1,6 @@
 # Attend A Meetup
 
-Before the end of the course, you are to attend one meetup event at one of the local meetup groups. For more details about these, check the adjacent [Community-Involvement.md](Community-Involvement.md) document in this directory.
+Before the end of the course, you are to attend one meetup event at one of the local meetup groups. For more details about these, check the adjacent [Community_Involvement.md](Community_Involvement.md) document in this directory.
 
 Take a screenshot of your RSVP to the meetup group event. You are to include this screenshot as a file upload along with your report of the event, outlined below.
 
